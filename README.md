@@ -1,4 +1,4 @@
-#Plate Recognition
+#Riconoscimento targhe
 ![alt tag](https://cloud.githubusercontent.com/assets/13135708/8456190/0b7d348c-200a-11e5-92ec-68970b237f75.png)
 #Introduzione
 Introduzione

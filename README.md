@@ -8,7 +8,7 @@ Il progetto è multidisciplinare e richiede conoscenze di:
 •	 **elettrotecnica** che si occupa del trasformatore necessario ad alimentare il motore asincrono monofase a condensatore fisso;  
 •	**informatica** che si occupa dell' elaborazione, dell' interfaccia con l' utente e della gestione dell' impianto  
 Il progetto offre molteplici possibili sviluppi applicativi nell' ambito del riconoscimento oggetti, gestione remota di automazioni industriali, centralizzazione e trasmissione dati. L' intero sistema è stato volutamente realizzato con piattaforme software e hardware Open-Source non dipende quindi da licenze di costosi software e sistemi operativi proprietari. Il progetto propone una soluzione ai tradizionali sistemi adottati come la chiave elettronica a contatto oppure il codice di accesso e si adatta molto bene a luoghi come parcheggi scolastici, uffici aziende o campeggi.
-#struttura del progetto
+#Struttura del progetto
 ![alt tag](https://cloud.githubusercontent.com/assets/13135708/8456352/2c8185ec-200b-11e5-9a68-e979e7b6566d.jpg)
 Il Sistema realizzato è suddiviso in cinque blocchi fondamentali:  
 •	**telecamera** acquisisce e comprime il flusso video  

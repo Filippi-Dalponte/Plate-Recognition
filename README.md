@@ -3,7 +3,7 @@
 
 
 Visita il nostro sito, troverai tutta la documentazione, video e immagini e tutti i sorgenti!
-Pubblicato sito web: 
+
 # http://platerecognition.jimdo.com/
 
 

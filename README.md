@@ -1,6 +1,11 @@
 #Riconoscimento targhe
 ![alt tag](https://cloud.githubusercontent.com/assets/13135708/8456190/0b7d348c-200a-11e5-92ec-68970b237f75.png)
 #Introduzione
+
+Visita il nostro sito, troverai tutta la documentazione, video e immagini e tutti i sorgenti!
+Pubblicato sito web: http://platerecognition.jimdo.com/
+
+
 Il Lavoro ideato ha il fine di automatizzare un sistema di accesso mediante il riconoscimento delle autovetture. Consiste nella lettura automatica delle targhe, con il dato digitalizzato è quindi possibile lo sviluppo di un software adattato alle proprie esigenze;  nel nostro caso i dati acquisiti vengono confrontati con un database e, se la targa è consentita, si esegue  l’apertura di una barriera automatica per l’ingresso ad un’area ad accesso limitato.  
 Il progetto è multidisciplinare e richiede conoscenze di:  
 •	**automazione** dato che uno dei nostri obiettivi è quello di far effettuare operazioni ripetitive al sistema riducendo il  contributo umano necessario;  
